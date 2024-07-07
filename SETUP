@@ -1,0 +1,15 @@
+Mac Setup
+Open Terminal:
+
+You can find Terminal in the Applications/Utilities folder or search for it using Spotlight.
+Navigate to Your Preferred Directory:
+
+Go to bash
+Copy code: 
+cd path/to/your/directory
+Clone the Repository:
+Copy code: 
+git clone https://github.com/apello/OSUARNav.git
+
+Navigate to the Cloned Directory:
+cd OSUARNav
