@@ -26,5 +26,5 @@ OSUARNAV is an AR-enhanced indoor navigation app designed to provide intuitive, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/apello/OSUARNav.git
+   git clone (https://github.com/mhosh1/OSUARNAV.git)
    
